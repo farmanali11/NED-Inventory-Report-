@@ -39,6 +39,7 @@ This project is a **React-based Invoice Report Generator** that allows users to 
 
 ## Deployment
 
-- **Vercel**: [Vercel-Link] ned-inventory-report.vercel.app
+- **Vercel**: [NED Inventory Report](https://ned-inventory-report.vercel.app)
+
 
 ---
